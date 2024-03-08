@@ -1,0 +1,11 @@
+redshift:
+  dbname: YOUR_DB_NAME
+  user: YOUR_USERNAME
+  password: YOUR_PASSWORD
+  host: YOUR_REDSHIFT_HOST
+  port: YOUR_REDSHIFT_PORT
+
+queries:
+  query1: "SELECT * FROM table1;"
+  query2: "SELECT * FROM table2;"
+  query3: "SELECT * FROM table3;"
